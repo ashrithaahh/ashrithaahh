@@ -1,6 +1,24 @@
-# 💫 About Me:
-## 👩‍💻 About Me<br><br>Hi, I'm **Ashritha Bandameedi**, a final-year Computer Science Engineering student passionate about leveraging data, technology, and innovation to solve real-world business problems.<br><br>My interests lie at the intersection of **Data Analytics, Artificial Intelligence, Business Intelligence, and Software Engineering**. I enjoy transforming raw data into actionable insights, building data-driven solutions, and creating impactful projects that support strategic decision-making.<br><br>Through hands-on projects, internships, and continuous learning, I am actively developing expertise in modern technologies and industry-relevant tools including:<br><br>### 🚀 Technical Skills<br><br>**Programming & Development**<br><br>* Python<br>* C++<br>* SQL<br>* Git & GitHub<br><br>**Data Analytics & Business Intelligence**<br><br>* Data Analysis<br>* Exploratory Data Analysis (EDA)<br>* Data Cleaning & Transformation<br>* Statistical Analysis<br>* Data Visualization<br>* Dashboard Development<br>* Business Intelligence<br>* KPI Reporting<br><br>**Tools & Technologies**<br><br>* Pandas<br>* NumPy<br>* SQLite<br>* Tableau<br>* Excel / Google Sheets<br>* VS Code<br><br>**Artificial Intelligence & Emerging Technologies**<br><br>* Machine Learning Fundamentals<br>* Generative AI<br>* AI-Powered Applications<br>* Prompt Engineering<br>* Data-Driven Decision Making<br><br>**Professional Skills**<br><br>* Analytical Thinking<br>* Problem Solving<br>* Business Communication<br>* Project Management<br>* Team Collaboration<br>* Continuous Learning<br><br>### 🎯 Career Objective<br><br>My goal is to build a career in technology where I can combine analytical thinking, software development, and data-driven decision-making to create innovative solutions and deliver meaningful business impact.<br><br>I am currently focused on strengthening my expertise in **Data Analytics, AI, Software Engineering, and Modern Development Practices** while preparing for opportunities that challenge me to learn, grow, and contribute as a technology professional.<br><br>### 🤝 Let's Connect<br><br>I am always open to connecting with recruiters, industry professionals, and fellow learners who share an interest in technology, analytics, artificial intelligence, and innovation.<br>
+<h2>👩‍💻 About Me</h2>
 
+<p>
+Hi, I'm <b>Ashritha Bandameedi</b>, a final-year Computer Science Engineering student passionate about
+<b>Data Analytics, Artificial Intelligence, Business Intelligence, and Software Engineering</b>.
+</p>
+
+<p>
+I enjoy transforming data into actionable insights and building technology-driven solutions that solve real-world problems. Currently, I am strengthening my expertise in <b>Python, SQL, C++, Tableau, Machine Learning, Data Visualization, and AI-powered technologies</b> through hands-on projects, internships, and continuous learning.
+</p>
+
+<p>
+🚀 Aspiring Technology Professional <br>
+📊 Data Analytics & Business Intelligence <br>
+🤖 Artificial Intelligence & Machine Learning <br>
+💻 Software Engineering & Problem Solving
+</p>
+
+<p>
+📌 Open to opportunities in Software Engineering, Data Analytics, Business Intelligence, and AI-related roles.
+</p>
 
 ## 🌐 Socials:
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/ashrithaahh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ashritha Bandameedi) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashrithaahh@gmail.com) 
